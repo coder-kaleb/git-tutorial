@@ -1,2 +1,3 @@
 console.log('first commit')
-console.log('version 2 restore and data fetched sucessfully')
+console.log('version 2')
+console.log('version 3 config worked on it')
