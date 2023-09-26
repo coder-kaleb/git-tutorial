@@ -1,1 +1,2 @@
-console.log('first commit version 2 updated worked on it')
+console.log('first commit')
+console.log('v-3 index modified and starting working on it')
