@@ -14,3 +14,6 @@ const obj = {
     arr2: ['a', 'b', 'c'],
     arr3: [true, false, true]
 };
+function setConfigValue(key, value) {
+    config[key] = value;
+}
