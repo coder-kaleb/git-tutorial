@@ -22,3 +22,8 @@ const birthDate = '1990-01-01';
 const age = calculateAge(birthDate);
 console.log(age); // { years: 31, months: 7, days: 16 }
 const arr = [1, 2, 3, 4, 5, 6];
+const [a, b, ...rest] = arr;
+console.log(a, b, rest); // 1 2 [ 3, 4, 5, 6 ]
+const obj = { name: 'John', age: 31, city: 'New York' };
+
+
