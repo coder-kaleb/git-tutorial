@@ -21,3 +21,4 @@ function calculateAge(birthDate) {
 const birthDate = '1990-01-01';
 const age = calculateAge(birthDate);
 console.log(age); // { years: 31, months: 7, days: 16 }
+const arr = [1, 2, 3, 4, 5, 6];
