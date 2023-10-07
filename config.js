@@ -9,3 +9,8 @@ function generatePowerOfTwo(n) {
     }
     return result;
 }
+const obj = {
+    arr1: [1, 2, 3],
+    arr2: ['a', 'b', 'c'],
+    arr3: [true, false, true]
+};
