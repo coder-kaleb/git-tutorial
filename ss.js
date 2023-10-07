@@ -25,5 +25,11 @@ const arr = [1, 2, 3, 4, 5, 6];
 const [a, b, ...rest] = arr;
 console.log(a, b, rest); // 1 2 [ 3, 4, 5, 6 ]
 const obj = { name: 'John', age: 31, city: 'New York' };
-
+const names = [
+    { id: 1, name: 'Alice' },
+    { id: 2, name: 'Bob' },
+    { id: 3, name: 'Charlie' },
+    { id: 4, name: 'David' },
+    { id: 5, name: 'Eve' }
+];
 
