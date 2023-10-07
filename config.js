@@ -17,3 +17,14 @@ const obj = {
 function setConfigValue(key, value) {
     config[key] = value;
 }
+const person = {
+    name: 'John Doe',
+    age: 30,
+    email: 'johndoe@example.com',
+    address: {
+        street: '123 Main St',
+        city: 'Anytown',
+        state: 'CA',
+        zip: '12345'
+    }
+};
