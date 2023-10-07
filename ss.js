@@ -32,4 +32,11 @@ const names = [
     { id: 4, name: 'David' },
     { id: 5, name: 'Eve' }
 ];
+const people = [
+    { id: 1, name: 'Alice', age: 25, birthday: '1996-05-12' },
+    { id: 2, name: 'Bob', age: 32, birthday: '1989-02-28' },
+    { id: 3, name: 'Charlie', age: 18, birthday: '2003-11-05' },
+    { id: 4, name: 'David', age: 47, birthday: '1974-08-22' },
+    { id: 5, name: 'Eve', age: 29, birthday: '1992-01-01' }
+];  
 
